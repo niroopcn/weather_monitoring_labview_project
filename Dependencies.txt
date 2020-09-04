@@ -3,3 +3,4 @@ LabVIEW HTTP Client
 JDP Utility
 NI Packed Library Utility
 NI File Type
+Also required - API Key from openweathermap.org.
